@@ -18,4 +18,3 @@ This repo contains simplified and trimmed down version of tensorflow's example i
 
 The `scripts` directory contains helpers for the codelab. Some of these come from the main TensorFlow repository, and are included here so you can use them without also downloading the main TensorFlow repo (they are not part of the TensorFlow `pip` installation).
 
-"# PLANTIDANDROIDTUTORIAL" 
